@@ -15,6 +15,7 @@
   "puesto": "Asesor Patrimonial",
   "empresa": "Seguros Monterrey New York Life",
   "frase": "Lo que más te importa merece un plan",
+  "tituloSobre": "Sobre mí",
   "sobreMi": "Te ayudo a proteger lo que más quieres con un plan hecho a tu medida: protección para tu familia, salud, ahorro y retiro.",
   "chips": [
    "Cobertura nacional",
@@ -71,14 +72,25 @@
    {
     "icono": "m_ahorro",
     "titulo": "Ahorro",
-    "texto": "Planes de ahorro para la educación de tus hijos y tus metas de mediano plazo."
+    "texto": "Planes de ahorro para la educación de tus hijos y tus metas de mediano plazo.",
+    "video": ""
    },
    {
     "icono": "m_retiro",
     "titulo": "Retiro",
     "texto": "Planes para asegurar una pensión al llegar a tu edad de retiro."
+   },
+   {
+    "icono": "m_pregunta",
+    "titulo": "General",
+    "texto": "¿Aún no tienes claro lo que necesitas o como estos proyectos protegen tu patrimonio? ¿Tienes muchas dudas? No te preocupes,odemos empezar de cero para ayudarte mejor.",
+    "ancho": "doble"
    }
   ],
+  "columnas": 2,
+  "altoMin": 0,
+  "tamIcono": 54,
+  "tamTexto": 13,
   "textoVideoItem": "Ver video",
   "videoResumen": "",
   "textoVideoResumen": "Ver video: todo lo que hago en un minuto"
@@ -215,12 +227,14 @@
   "perfil.puesto": {
    "b": true,
    "i": false,
-   "u": false
+   "u": false,
+   "s": 8
   },
   "perfil.empresa": {
    "b": false,
    "i": false,
-   "u": false
+   "u": false,
+   "s": 8
   },
   "perfil.frase": {
    "b": false,
@@ -271,7 +285,32 @@
    "b": false,
    "i": false,
    "u": false
+  },
+  "perfil.tituloSobre": {
+   "b": true,
+   "i": false,
+   "u": false
+  },
+  "perfil.chips": {
+   "b": true,
+   "i": false,
+   "u": false
+  },
+  "iconos.etiquetas": {
+   "b": false,
+   "i": false,
+   "u": false
+  },
+  "servicios.textoVideoItem": {
+   "b": true,
+   "i": false,
+   "u": false
+  },
+  "contacto.ciudad": {
+   "b": false,
+   "i": false,
+   "u": false
   }
  },
- "actualizado": "2026-10-07T20:18:54.328Z"
+ "actualizado": "2026-10-08T00:56:43.305Z"
 }
