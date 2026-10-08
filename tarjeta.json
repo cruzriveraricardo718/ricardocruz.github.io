@@ -10,6 +10,97 @@
   ],
   "ocultas": []
  },
+ "flyer": {
+  "formato": "vertical",
+  "fondo": "marca",
+  "oscurecer": 78,
+  "alin": "centro",
+  "vistaPrevia": true,
+  "formatoLink": "igual",
+  "elementos": [
+   {
+    "id": "logo",
+    "tipo": "logo",
+    "ver": false,
+    "tam": 100
+   },
+   {
+    "id": "foto",
+    "tipo": "foto",
+    "ver": true,
+    "tam": 100
+   },
+   {
+    "id": "nombre",
+    "tipo": "nombre",
+    "ver": true,
+    "tam": 100,
+    "texto": "",
+    "color": ""
+   },
+   {
+    "id": "puesto",
+    "tipo": "puesto",
+    "ver": true,
+    "tam": 100,
+    "texto": "",
+    "color": ""
+   },
+   {
+    "id": "frase",
+    "tipo": "frase",
+    "ver": true,
+    "tam": 100,
+    "texto": "",
+    "color": ""
+   },
+   {
+    "id": "servicios",
+    "tipo": "servicios",
+    "ver": true,
+    "tam": 100,
+    "color": ""
+   },
+   {
+    "id": "qr",
+    "tipo": "qr",
+    "ver": false,
+    "tam": 100
+   },
+   {
+    "id": "llamado",
+    "tipo": "texto",
+    "ver": false,
+    "tam": 100,
+    "texto": "Escanea y agenda tu asesoría sin costo",
+    "color": ""
+   },
+   {
+    "id": "url",
+    "tipo": "url",
+    "ver": false,
+    "tam": 100,
+    "texto": "",
+    "color": ""
+   },
+   {
+    "id": "contacto",
+    "tipo": "contacto",
+    "ver": false,
+    "tam": 100,
+    "texto": "",
+    "color": ""
+   },
+   {
+    "id": "tmuyvmno5",
+    "tipo": "texto",
+    "ver": true,
+    "tam": 100,
+    "texto": "WhatsApp 443 401 9095",
+    "color": ""
+   }
+  ]
+ },
  "perfil": {
   "nombre": "Ricardo Cruz Rivera",
   "puesto": "Asesor Patrimonial",
@@ -83,7 +174,7 @@
    {
     "icono": "m_pregunta",
     "titulo": "General",
-    "texto": "¿Aún no tienes claro lo que necesitas o como estos proyectos protegen tu patrimonio? ¿Tienes muchas dudas? No te preocupes,odemos empezar de cero para ayudarte mejor.",
+    "texto": "¿Aún no tienes claro de lo que necesitas o como estos proyectos protegen tu patrimonio? ¿Tienes muchas dudas? No te preocupes, empezamos desde lo más básico.",
     "ancho": "doble"
    }
   ],
@@ -314,5 +405,5 @@
    "u": false
   }
  },
- "actualizado": "2026-10-08T01:28:42.232Z"
+ "actualizado": "2026-10-08T02:00:05.333Z"
 }
