@@ -145,7 +145,7 @@
     "obligatoria": false,
     "resumen": "Me interesa",
     "opciones": [
-     "General",
+     "General/Dudas",
      "Protección",
      "Salud",
      "Ahorro",
@@ -171,7 +171,9 @@
     "opciones": [
      "Mañana (08:00 a 12:00)",
      "Mediodía (12:00 a 15:00)",
-     "Tarde (16:00 a 20:00)"
+     "Tarde (16:00 a 20:00)",
+     "Sábado (Sujeto a disponibilidad)",
+     "Domingo (Sujeto a disponibilidad)"
     ],
     "usarServicios": false
    },
@@ -213,7 +215,7 @@
  },
  "pie": {
   "texto": "Agente de seguros · Seguros Monterrey New York Life",
-  "aviso": ""
+  "aviso": "Cédula A1 M425162"
  },
  "seo": {
   "descripcion": "Asesor Patrimonial: protección, salud, ahorro y retiro. Agenda tu asesoría sin costo."
@@ -228,13 +230,13 @@
    "b": true,
    "i": false,
    "u": false,
-   "s": 8
+   "s": 13
   },
   "perfil.empresa": {
    "b": false,
    "i": false,
    "u": false,
-   "s": 8
+   "s": 11
   },
   "perfil.frase": {
    "b": false,
@@ -312,5 +314,5 @@
    "u": false
   }
  },
- "actualizado": "2026-10-08T00:56:43.305Z"
+ "actualizado": "2026-10-08T01:28:42.232Z"
 }
